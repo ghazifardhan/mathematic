@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple App</string>
+    <string name="title_activity_main_circle">MainCircleActivity</string>
+</resources>
